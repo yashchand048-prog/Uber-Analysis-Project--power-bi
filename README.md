@@ -84,14 +84,9 @@ The dataset includes Uber trip information such as:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
-
-Example:
-
-* Executive Dashboard
-* Revenue & Booking Analysis
-* Trip Trends
-* Location Insights
+<img width="1115" height="629" alt="Screenshot 2025-09-10 140730" src="https://github.com/user-attachments/assets/8f2db316-398f-4fed-9106-323cf7d7afb0" />
+<img width="1125" height="628" alt="Screenshot 2025-09-10 140756" src="https://github.com/user-attachments/assets/5e9ba2cf-e84e-4a42-9326-a63ac13bafcf" />
+<img width="1119" height="620" alt="Screenshot 2025-09-10 140817" src="https://github.com/user-attachments/assets/d5774c06-3da4-42ac-8847-ab4c5854338f" />
 
 ---
 
@@ -137,6 +132,6 @@ Example:
 
 **Yash Chand**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python | AI-Assisted Analytics
+Data Analyst | Power BI | SQL | Excel | Python | AI-Assisted Analytics
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
